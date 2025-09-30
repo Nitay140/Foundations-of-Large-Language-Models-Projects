@@ -24,7 +24,7 @@ The goal of this repository is to provide hands-on projects that help translate 
 - **PyTorch / TensorFlow**
 - **Hugging Face Transformers**
 - **Jupyter Notebooks**
-- **NumPy, Pandas, Matplotlib / Seaborn**
+- **NumPy, Pandas, Matplotlib / Seaborn, Keras, Tensorflow, PyTorch**
 
 ---
 
